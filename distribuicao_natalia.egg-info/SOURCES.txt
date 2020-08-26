@@ -1,0 +1,9 @@
+README.md
+setup.py
+distribuicao_natalia.egg-info/PKG-INFO
+distribuicao_natalia.egg-info/SOURCES.txt
+distribuicao_natalia.egg-info/dependency_links.txt
+distribuicao_natalia.egg-info/top_level.txt
+pkg_natalia/__init__.py
+pkg_natalia/exibir_numeros.py
+pkg_natalia/triangulo.py
